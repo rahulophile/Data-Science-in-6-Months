@@ -66,13 +66,12 @@ graph TD
 		DS --- AI
 ```
 
-### Relationship Image (Optional)
+### Relationship Image 
 
-If you prefer a pictorial Venn/containment image, add it to this folder and reference it here:
 
 ![AI vs ML vs DL vs GenAI](assets/ai-landscape.png)
 
-> Tip: Create or save an image as `1st-Month/Day-1/assets/ai-landscape.png`. See “How to add an image” below.
+
 
 ---
 
@@ -104,45 +103,6 @@ Real-world DS examples:
 
 ---
 
-## How to Add an Image (GitHub Markdown)
-
-Option A — Local relative path (recommended for this repo):
-
-```md
-![AI vs ML vs DL vs GenAI](assets/ai-landscape.png)
-```
-
-Steps:
-1) Save your image to: `1st-Month/Day-1/assets/ai-landscape.png`
-2) Use the Markdown line above in this file. GitHub will render it automatically.
-
-Option B — HTML (control width/height):
-
-```html
-<img src="assets/ai-landscape.png" alt="AI vs ML vs DL vs GenAI" width="720" />
-```
-
-Option C — External URL (e.g., a hosted image):
-
-```md
-![AI Landscape](https://your.cdn.com/path/ai-landscape.png)
-```
-
-Option D — GitHub raw link (after you push the image):
-
-```md
-![AI Landscape](https://raw.githubusercontent.com/rahulophile/Data-Science-in-6-Months/main/1st-Month/Day-1/assets/ai-landscape.png)
-```
-
-On macOS, you can create the assets folder via Terminal:
-
-```bash
-mkdir -p "1st-Month/Day-1/assets"
-```
-
-Then copy an image into it (drag-and-drop in VS Code Explorer also works).
-
----
 
 ## Summary (Day 1)
 
