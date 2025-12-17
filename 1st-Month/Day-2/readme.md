@@ -148,19 +148,6 @@ Recommended project layout:
 		readme.md  ← you are here
 ```
 
-## Icons & Visual Flair
-
-- Place custom icons or screenshots in: `1st-Month/Day-2/assets/`
-- Reference them in Markdown:
-
-```md
-![Anaconda Navigator Home](assets/anaconda-navigator.png)
-```
-
-- Suggested visuals to capture:
-	- Navigator home screen with launch buttons.
-	- Terminal snapshot of `conda env list`.
-	- Jupyter Notebook interface highlighting code + Markdown cells.
 
 ## Key Takeaways
 - Jupyter Notebook is my primary environment for this challenge, backed by secondary tools as needed.
